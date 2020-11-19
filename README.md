@@ -1,3 +1,5 @@
+#两个版本版本分别为baiduyun.user.js和修改优化版baiduyun_v2.js (这个版本主要增加下载线路和去除验证)
+
 <p align="center">
   <a href="https://www.baiduyun.wiki">
     <img width="160" src="https://www.baiduyun.wiki/logo.png" alt="百度网盘直链下载助手">
