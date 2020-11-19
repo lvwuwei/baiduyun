@@ -1,4 +1,6 @@
-#两个版本版本分别为baiduyun.user.js和修改优化版baiduyun_v2.js (这个版本主要增加下载线路和去除验证)
+##两个版本版本 ：
+##版本1--baiduyun.user.js
+##版本2--baiduyun_v2.js (修改优化版,这个版本主要增加下载线路和去除验证)
 
 <p align="center">
   <a href="https://www.baiduyun.wiki">
